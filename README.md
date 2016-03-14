@@ -1,1 +1,1 @@
-# [scan](louismerlin.github.io/scan)
+# [scan](http://louismerlin.github.io/scan)
